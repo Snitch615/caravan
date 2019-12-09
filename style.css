@@ -56,13 +56,13 @@ header .headline{
  
 main {
   width: 800px;
-  margin: 0 auto; /* 領域を中央揃え */
-  padding: 70px 0; /* 上下に70px、左右に0pxの内側余白 */ 
+  margin: 0 auto;
+  padding: 70px 0;
 }
 .blog {
   width: 540px;
   float: left;
-  margin-right: 30px; /* 領域の右側余白 */
+  margin-right: 30px;
 }
 .blog-headline {
   border-bottom: 8px solid #f7f7f7;
