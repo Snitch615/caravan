@@ -208,10 +208,6 @@ footer {
   color: black
 }
 
-@media screen and (max-width: 1024px) {}
-
-@media screen and (max-width: 768px) {}
-
 @media screen and (max-width: 425px) {
   header {
     width: 100%;
